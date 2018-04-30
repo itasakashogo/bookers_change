@@ -1,0 +1,6 @@
+[submodule "book_app"]
+	path = book_app
+	url = https://github.com/itasakashogo/bookers_change
+[submodule "book_app2"]
+	path = book_app2
+	url = https://github.com/itasakashogo/bookers_change
